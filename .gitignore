@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+#remove libiphone
+UnityiOS/
 
 # Visual Studio cache directory
 .vs/
